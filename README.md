@@ -1,18 +1,4 @@
 ![Icono del equipo "Los Sims"](docs/equipo-logo.jpg)
-
-# utn-sims
-
-Simulador de la planificación de recursos y asignación de memoria de un sistema operativo, realizado en 2023 como
-Trabajo Práctico Integrador de la asignatura Sistemas Operativos.
-
-## Equipo Los Sims
-
-- Andrés, Aldo Omar (Diseño UI).
-- Bravo Pérez, Agustín Nicolás (Coordinación).
-- Peralta, Nadine (Documentación).
-- Tres Palacios, Carlos (Testing).
-- Vázquez, Máximo Ezequiel (Programación).
-
 ## Uso del simulador
 
 ```
